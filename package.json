@@ -1,0 +1,8 @@
+{
+  "name": "cool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jikequan/cool.git",
+  "author": "jikequan <jikequan@163.com>",
+  "license": "MIT"
+}
